@@ -1,37 +1,3 @@
-## Welcome to GitHub Pages
+## This is a page created with Hugo
 
-You can use the [editor on GitHub](https://github.com/dgoodwinhauck/dgoodwinhauck.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dgoodwinhauck/dgoodwinhauck.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+A post made using Hugo. Static Site generators are programs that will take your site and spit out a static HTML site. This sites don’t allow fancy Javascript or Php functions, so no databases. Just simple HTML and CSS, for smaller sites that don’t need constant updating. Here’s a link to one I did up as an example, using the quick start tutorial on gohugo.io. Hugo is one of the more popular static site generators.
